@@ -1,6 +1,12 @@
-# Dyes-Junior
+# Dyes Junior
 # 💫 About Me:
-Hi there! My name is [Your Name] and I'm a full stack developer with a passion for solving complex problems through elegant and efficient code. Currently, I'm on a streak of solving frontend mentor challenges, and I'm always looking for new projects to work on and opportunities to collaborate on open source projects.<br><br>One area I'm particularly interested in right now is cloud computing. I'm currently learning more about this exciting field and how it can be used to streamline and optimize web applications. If you're interested in cloud computing or have any projects related to it, I'd love to hear from you!<br><br>In addition to cloud computing, I'm also knowledgeable in Ruby and have experience developing web applications using this powerful language. If you have any questions about Ruby or would like to see some of my past projects, feel free to reach out to me.<br><br>Overall, I'm passionate about using technology to solve real-world problems and make a positive impact on people's lives. Whether you're looking for a collaborator on an open source project or just want to chat about programming, I'm always eager to connect with other developers and share ideas.
+Hi there! My name is Dyes Junior and I'm a full stack developer with a passion for solving complex problems through elegant and efficient code. Currently, I'm on a streak of solving frontend mentor challenges, and I'm always looking for new projects to work on and opportunities to collaborate on open source projects.
+
+One area I'm particularly interested in right now is cloud computing. I'm currently learning more about this exciting field and how it can be used to streamline and optimize web applications. If you're interested in cloud computing or have any projects related to it, I'd love to hear from you!
+
+In addition to cloud computing, I'm also knowledgeable in Ruby and have experience developing web applications using this powerful language. If you have any questions about Ruby or would like to see some of my past projects, feel free to reach out to me.
+
+Overall, I'm passionate about using technology to solve real-world problems and make a positive impact on people's lives. Whether you're looking for a collaborator on an open source project or just want to chat about programming, I'm always eager to connect with other developers and share ideas.
 
 
 ## 🌐 Socials:
@@ -27,5 +33,3 @@ Hi there! My name is [Your Name] and I'm a full stack developer with a passion f
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dx901&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
